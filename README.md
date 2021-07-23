@@ -4,5 +4,5 @@
 ## [DEMO](https://cenacrharsh.github.io/tribute-page-responsive-web-design-fcc/)
 
 <p align="center">
-  <img width="460" height="300" src="./ss.png">
+  <img src="./ss.png">
 </p>
