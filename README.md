@@ -3,4 +3,4 @@
 
 ## [DEMO](https://cenacrharsh.github.io/tribute-page-responsive-web-design-fcc/)
 
-<img src='./ss.png' alt='ss' align='center'>
+<div style="text-align:center"><img src="./ss.png" /></div>
