@@ -4,3 +4,5 @@
 ## [DEMO](https://cenacrharsh.github.io/tribute-page-responsive-web-design-fcc/)
 
 ![ss](./ss.png)
+
+<img src='./ss.png'>
