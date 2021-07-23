@@ -1,4 +1,4 @@
-<p text-align="center">
+<p style={text-align="center"}>
 <h1> Tribute Page </h1>
 <h2> Responsive Web Design - FreeCodeCamp </h2>
 
