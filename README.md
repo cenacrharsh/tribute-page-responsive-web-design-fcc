@@ -1,10 +1,5 @@
 
-# Tribute Page
-## Responsive Web Design - FreeCodeCamp
+<h1 align='center'> Tribute Page </h1>
+<h2 align='center'><a href='https://cenacrharsh.github.io/tribute-page-responsive-web-design-fcc/'>✨ DEMO</a></h2>
 
-## [DEMO](https://cenacrharsh.github.io/tribute-page-responsive-web-design-fcc/)
-
-
-<p align="center">
-  <img src="./ss.png">
-</p>
+![ss](./ss.png)
